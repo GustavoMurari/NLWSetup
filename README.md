@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um projeto para acompanham os hábitos e rotinas do dia a dia.
 
-- [Acesse o projeto finalizado, online]
+- [Visite o projeto online] (https://gustavomurari.github.io/NLWSetup/)
 
 ## :memo: Licença
 
