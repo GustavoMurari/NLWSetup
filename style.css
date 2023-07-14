@@ -24,8 +24,8 @@ header {
 }
 
 h2 {
-  margin: 32px;
   font-family: "inter";
+  margin: 32px;
   font-weight: 600;
   font-size: 18px;
   line-height: 125%;
